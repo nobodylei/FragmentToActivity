@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentToActivity</string>
+    <string name="hint_name">请输入传递的数据</string>
+    <string name="send">点击传值</string>
+</resources>
